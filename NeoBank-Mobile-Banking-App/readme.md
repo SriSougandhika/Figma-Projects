@@ -61,6 +61,7 @@ Here is the [link](https://www.figma.com/proto/gXwROmzmPTdwbBmq2ZIOTi/NeoBank?no
 - Clear CTAs (Call-To-Actions)
 - Rounded elements & shadows for a warm feel
 - Motion: Smart transitions between flows (Smart Animate in Figma)
+- Components: Buttons, Loading sign, Payment successful sign, and Text box
 
 ## 💼 Assets used:
 - Auto Layout (for responsiveness)
