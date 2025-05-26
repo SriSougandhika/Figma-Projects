@@ -4,6 +4,7 @@ Welcome to my collection of UI/UX design projects created using **Figma**. This 
 
 1. **The New Insta** – A sleek Instagram UI recreation.
 2. **Anime Blog** – A blog-style layout posting iconic anime characters.
+3. **NeoBank** - A modern mobile banking app recreated for tech-savvy users.
 
 ## 🏷️ Credits
 
